@@ -8,29 +8,29 @@ It defines how the fictional company VAPT-Tech Solutions Inc. would identify, ev
 
 𝐖𝐡𝐚𝐭 𝐭𝐡𝐞 𝐦𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲 𝐜𝐨𝐯𝐞𝐫𝐬:
 
-Purpose, scope and users. Applies to all assets within the ISMS scope and to every employee involved in risk assessment and  treatment
+● Purpose, scope and users. Applies to all assets within the ISMS scope and to every employee involved in risk assessment and  treatment
 
-Risk assessment process. Asset identification, threats and vulnerabilities, with the GRC Analyst coordinating, asset owners identifying threats and vulnerabilities, and risk owners assessing consequences and likelihood
+● Risk assessment process. Asset identification, threats and vulnerabilities, with the GRC Analyst coordinating, asset owners identifying threats and vulnerabilities, and risk owners assessing consequences and likelihood
 
-Risk owners. Each risk has a named owner, who may or may not be the asset owner
+● Risk owners. Each risk has a named owner, who may or may not be the asset owner
 
-Scoring model. Consequence (0 to 2) plus likelihood (0 to 2) gives a risk level from 0 to 4, calculated in the Risk Assessment Table
+● Scoring model. Consequence (0 to 2) plus likelihood (0 to 2) gives a risk level from 0 to 4, calculated in the Risk Assessment Table
 
-Risk acceptance criteria. Levels 0 to 2 are acceptable; levels 3 and 4 must be treated
+● Risk acceptance criteria. Levels 0 to 2 are acceptable; levels 3 and 4 must be treated
 
-Risk treatment options. Apply controls (Annex A or others), transfer, avoid, or accept (only when treatment would cost more than the potential impact)
+● Risk treatment options. Apply controls (Annex A or others), transfer, avoid, or accept (only when treatment would cost more than the potential impact)
 
-Re-scoring after treatment. New consequence and likelihood values are assessed to evaluate control effectiveness
+● Re-scoring after treatment. New consequence and likelihood values are assessed to evaluate control effectiveness
 
-Regular reviews. At least annually, or after significant organizational, technology or business changes
+● Regular reviews. At least annually, or after significant organizational, technology or business changes
 
-Statement of Applicability and Risk Treatment Plan. Control applicability, justification, implementation status, and management acceptance of residual risk
+● Statement of Applicability and Risk Treatment Plan. Control applicability, justification, implementation status, and management acceptance of residual risk
 
-Reporting. Risk Assessment and Treatment Report, plus monthly progress reporting from the CTO to the CEO
+● Reporting. Risk Assessment and Treatment Report, plus monthly progress reporting from the CTO to the CEO
 
-Records management. What is kept, where, who protects it and for how long
+● Records management. What is kept, where, who protects it and for how long
 
-Validity and document management. Annual review and effectiveness criteria
+● Validity and document management. Annual review and effectiveness criteria
 
 𝐂𝐨𝐧𝐭𝐞𝐱𝐭
 
@@ -42,8 +42,8 @@ It is a deliverable in the same training program as the ISMS Implementation Proj
 
 In Session 5 of the GRC hands-on training, we worked through how to turn Clauses 6.1.2 and 6.1.3 into a repeatable process the whole organization can follow:
 
-Asset owners and risk owners are not always the same person, so say clearly who is responsible for what.
+● Asset owners and risk owners are not always the same person, so say clearly who is responsible for what.
 
-After treatment, re-score the risk. If the numbers don’t change, reconsider the controls you applied.
+● After treatment, re-score the risk. If the numbers don’t change, reconsider the controls you applied.
 
-A methodology must produce comparable, repeatable results. That is exactly what Clause 6.1.2 asks for.
+● A methodology must produce comparable, repeatable results. That is exactly what Clause 6.1.2 asks for.
